@@ -1,0 +1,23 @@
+WEB LOG ANALYSIS REPORT
+=======================
+
+Student: MARJES
+Student ID: TUPM-26-1948
+Seed Digit: 8
+ID Sum: 30
+
+DATASET SUMMARY
+Total records: 16061
+Valid records: 0
+Incomplete records: 16061
+
+TOP 5 IP ADDRESSES
+
+TOP 5 REQUESTED URLS
+
+HTTP STATUS CODES
+
+Successful requests: 0
+Error requests: 0
+
+REQUESTS PER HOUR

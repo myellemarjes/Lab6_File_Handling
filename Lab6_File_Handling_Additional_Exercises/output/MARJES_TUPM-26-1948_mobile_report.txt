@@ -1,0 +1,35 @@
+MOBILE USAGE PROFILING REPORT
+=============================
+
+Student: MARJES
+Student ID: TUPM-26-1948
+Seed Digit: 8
+ID Sum: 30
+
+DATASET SUMMARY
+Total records: 700
+Valid records: 700
+
+AVERAGE MOBILE USAGE
+App Usage: 271.13 minutes/day
+Screen Time: 5.27 hours/day
+Battery Drain: 1525.16 mAh/day
+Data Usage: 929.74 MB/day
+
+DEVICE MODEL SUMMARY
+Xiaomi Mi 11: 146
+iPhone 12: 146
+Google Pixel 5: 142
+OnePlus 9: 133
+Samsung Galaxy S21: 133
+
+OPERATING SYSTEM SUMMARY
+Android: 554
+iOS: 146
+
+USER BEHAVIOR CLASSES
+Class 1: 136
+Class 2: 146
+Class 3: 143
+Class 4: 139
+Class 5: 136

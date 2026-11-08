@@ -1,0 +1,66 @@
+CYBERSECURITY INCIDENT REPORT
+=============================
+
+Student: MARJES
+Student ID: TUPM-26-1948
+Seed Digit: 8
+ID Sum: 30
+
+DATASET SUMMARY
+Total records: 3000
+Valid records: 3000
+
+ATTACK TYPES
+DDoS: 531
+Phishing: 529
+SQL Injection: 503
+Ransomware: 493
+Malware: 485
+Man-in-the-Middle: 459
+
+TARGET INDUSTRIES
+IT: 478
+Banking: 445
+Healthcare: 429
+Retail: 423
+Education: 419
+Telecommunications: 403
+Government: 403
+
+ATTACK SOURCES
+Nation-state: 794
+Unknown: 768
+Insider: 752
+Hacker Group: 686
+
+SECURITY VULNERABILITIES
+Zero-day: 785
+Social Engineering: 747
+Unpatched Software: 738
+Weak Passwords: 730
+
+FINANCIAL AND USER IMPACT
+Total financial loss: $151478.91 million
+Average financial loss: $50.49 million
+Total affected users: 1514052409
+Average affected users: 504684.14
+Average resolution time: 36.48 hours
+
+INCIDENTS PER YEAR
+2015: 277
+2016: 285
+2017: 319
+2018: 310
+2019: 263
+2020: 315
+2021: 299
+2022: 318
+2023: 315
+2024: 299
+
+DEFENSE MECHANISMS
+Antivirus: 628
+VPN: 612
+Encryption: 592
+Firewall: 585
+AI-based Detection: 583
