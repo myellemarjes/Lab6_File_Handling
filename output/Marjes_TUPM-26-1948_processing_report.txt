@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Marjes
+Student ID: TUPM-26-1948
+Seed Digit: 8
+ID Sum: 30
+Verification Value: 188
+Dataset Sample Size: 80
+Valid Records: 0
+Average Global Active Power: 0
+JSON File: Marjes_TUPM-26-1948_record.json
+Backup File: Marjes_TUPM-26-1948_record.csv

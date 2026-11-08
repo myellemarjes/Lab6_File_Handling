@@ -1,0 +1,6 @@
+Student: Marjes
+Student ID: TUPM-26-1948
+Seed Digit: 8
+ID Sum: 30
+Name Length: 6
+Verification Value: 188
